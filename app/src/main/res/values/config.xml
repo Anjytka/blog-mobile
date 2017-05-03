@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="host">http://10.0.2.1</string>
+    <integer name="port">8080</integer>
+    <string name="resources">/resources/articles/</string>
+</resources>
